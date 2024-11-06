@@ -1,0 +1,26 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: -2
+  1: black
+  2: blue
+  3: colour
+  4: green
+  5: num_0
+  6: num_1
+  7: num_2
+  8: num_3
+  9: num_4
+  10: num_5
+  11: num_6
+  12: num_7
+  13: num_8
+  14: num_9
+  15: red
+  16: reverse
+  17: skip
+  18: wild
+  19: wild-4
+  20: yellow

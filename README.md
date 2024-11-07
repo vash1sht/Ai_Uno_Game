@@ -20,7 +20,7 @@ The UNO Card Detection Game is a Pygame-based application that uses a pre-traine
 ## Installation:
 ### Prerequisites
 - Python 3.x
-- Required libraries: opencv-python, pygame, ultralytics
+- Required libraries: opencv-python, pygame, tk, ultralytics
 
 ### Steps
 1. Clone the repository:
